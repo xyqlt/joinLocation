@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/xyqlt/joinLocation",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "info": {
         "name": "joinLocation",
         "description": "查询ip归属地",
