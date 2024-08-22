@@ -25,7 +25,7 @@
         "place": [
             {
                 "src": "joinLocation/*",
-                "dest": "plugins"
+                "dest": "plugins/joinLocation"
             }
         ]
     }
