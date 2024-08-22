@@ -1,0 +1,18 @@
+{
+    "entry": "joinLocation.js",
+    "name": "joinLocation",
+    "version": "1.0.0",
+    "description": "ip归属地查询",
+    "author": "wyqlt",
+    "type": "lse-quickjs",
+    "optionalDependencies":[
+        {
+            "name":"GMLIB-LegacyRemoteCallApi"
+        }
+    ],
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}

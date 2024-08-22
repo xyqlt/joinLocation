@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "tooth": "github.com/xyqlt/joinLocation",
+    "version": "1.0.0",
+    "info": {
+        "name": "joinLocation",
+        "description": "查询ip归属地",
+        "source": "github.com/xyqlt/joinLocation",
+        "author": "xyqlt",
+        "tags": [
+            "lse",
+            "llse",
+            "ip",
+            "location"
+        ]
+    },
+    "dependencies": {
+        "github.com/GroupMountain/GMLIB-LegacyRemoteCallApi": "0.13.x"
+    },
+    "prerequisites": {
+        "github.com/LiteLDev/LegacyScriptEngine": "0.8.x"
+    },
+    "files": {
+        "place": [
+            {
+                "src": "joinLocation/*",
+                "dest": "plugins/joinLocation"
+            }
+        ]
+    }
+}
