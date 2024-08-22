@@ -9,11 +9,11 @@ const APIURL = "https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=";
 function loadConfig() {
   try {
     Config.init("Language", "zh_CN");
-    Config.init("RegisterPAPI", 1);
+    Config.init("RegisterePAPI", 1);
     Config.init("ShowToast", 1);
     Config.init("ShowChat", 1);
     Config.init("CacheIpInfo", 1);
-    Config.init("EnableRegCommand", 1);
+    Config.init("enableRegCommand", 1);
     Config.init("Command", "location");
 
     logger.info("配置文件加载成功");
