@@ -20,11 +20,12 @@
     "prerequisites": {
         "github.com/LiteLDev/LegacyScriptEngine": "0.8.x"
     },
+    "asset_url": "https://github.com/xyqlt/joinLocation/releases/download/v1.0.0/joinLocation.zip",
     "files": {
         "place": [
             {
                 "src": "joinLocation/*",
-                "dest": "plugins/joinLocation"
+                "dest": "plugins"
             }
         ]
     }
