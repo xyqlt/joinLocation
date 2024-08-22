@@ -15,10 +15,10 @@
         ]
     },
     "dependencies": {
-        "github.com/GroupMountain/GMLIB-LegacyRemoteCallApi": "0.13.x"
+        "github.com/GroupMountain/GMLIB-LegacyRemoteCallApi": ">=0.12.6"
     },
     "prerequisites": {
-        "github.com/LiteLDev/LegacyScriptEngine": "0.8.x"
+        "github.com/LiteLDev/LegacyScriptEngine": ">=0.8.6"
     },
     "asset_url": "https://github.com/xyqlt/joinLocation/releases/download/v1.0.0/joinLocation.zip",
     "files": {
