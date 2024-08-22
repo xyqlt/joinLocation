@@ -1,7 +1,7 @@
 {
     "entry": "joinLocation.js",
     "name": "joinLocation",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ip归属地查询",
     "author": "wyqlt",
     "type": "lse-quickjs",
